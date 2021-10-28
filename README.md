@@ -6,9 +6,10 @@ I'm currently 16 years-old and from Germany. I'm mainly working as WebDeveloper 
 <details>
   <summary>My Projects</summary>
   My Projects:
-  - Kiara: https://github.com/Kiara-DCBot
 
-  - Hamibot: https://hamibot.io/
+  Kiara: https://github.com/Kiara-DCBot
+
+  Hamibot: https://hamibot.io/
 </details>
 
 <details>
