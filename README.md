@@ -1,4 +1,4 @@
-# Ohayo, everyone I'm Connor or DieKatze
+# Ohayo, everyone I'm DieKatze
 
 ## About me
 I'm currently 16 years-old and from Germany. I'm mainly working as WebDeveloper and Discord Bot Developer.
@@ -7,9 +7,8 @@ I'm currently 16 years-old and from Germany. I'm mainly working as WebDeveloper 
   <summary>My Projects</summary>
   My Projects:
 
-  Kiara: https://github.com/Kiara-DCBot
+  Enju: https://github.com/Enju-Discord
 
-  Hamibot: https://hamibot.io/
 </details>
 
 <details>
