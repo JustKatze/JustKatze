@@ -7,8 +7,6 @@ I'm currently 16 years-old and from Germany. I'm mainly working as WebDeveloper 
   <summary>My Projects</summary>
   My Projects:
 
-  Enju: https://github.com/Enju-Discord
-
 </details>
 
 <details>
