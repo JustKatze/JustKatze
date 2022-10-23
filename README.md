@@ -1,7 +1,7 @@
 # Ohayo, everyone I'm DieKatze
 
 ## About me
-I'm currently 16 years-old and from Germany. I'm mainly working as WebDeveloper and Discord Bot Developer.
+I'm currently 17 years-old . I'm mainly working as WebDeveloper, Discord Bot Developer and Java Developer.
 
 <details>
   <summary>My Projects</summary>
