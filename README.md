@@ -11,6 +11,7 @@ Hey, I'm Holy and currently 17 years-old .
 <img alt="MariaDB" src="media/image/mariadb.svg" height="30" /> &nbsp;&nbsp;
 
 **Currently learning:**
+
 <img alt="Elixir" src="media/image/elixir.svg" height="30" /> &nbsp;&nbsp;
 
 <details>
