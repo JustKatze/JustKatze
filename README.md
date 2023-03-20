@@ -1,10 +1,9 @@
-Hey, I'm Holy and currently 17 years-old .
+Hey, I'm Holy and currently 18 years-old .
 
 **Technologies I use:**
 
 <img alt="TypeScript" src="media/image/typescript.svg" height="30" /> &nbsp;&nbsp;
 <img alt="JavaScript" src="media/image/javascript.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Java" src="media/image/java.svg" height="30" /> &nbsp;&nbsp;
 <img alt="Python" src="media/image/python.svg" height="30" /> &nbsp;&nbsp;
 <img alt="Java" src="media/image/java.svg" height="30" /> &nbsp;&nbsp;
 <img alt="MongoDB" src="media/image/mongodb.svg" height="30" /> &nbsp;&nbsp;
