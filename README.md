@@ -25,6 +25,7 @@ the University of Bonn and Backend developer.
 
 <details>
   <summary>Software I use</summary>
+  
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -33,6 +34,7 @@ the University of Bonn and Backend developer.
 </details>
 <details>
   <summary>Server Tech</summary>
+  
   ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=Hetzner&logoColor=white)
   ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=Caddy&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
