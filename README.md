@@ -1,28 +1,19 @@
-Hey, I'm Holy and currently 18 years-old .
+### Hey there!
+[<img src="https://lanyard-profile-readme.vercel.app/api/292588280304893952" align="right">](https://discord.com/users/292588280304893952)
 
-**Technologies I use:**
+### Get to know me
 
-<img alt="TypeScript" src="media/image/typescript.svg" height="30" /> &nbsp;&nbsp;
-<img alt="JavaScript" src="media/image/javascript.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Python" src="media/image/python.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Java" src="media/image/java.svg" height="30" /> &nbsp;&nbsp;
-<img alt="MongoDB" src="media/image/mongodb.svg" height="30" /> &nbsp;&nbsp;
-<img alt="MariaDB" src="media/image/mariadb.svg" height="30" /> &nbsp;&nbsp;
+I'm Connor a computer Science student at 
+the University of Bonn and Backend developer.
 
-**Currently learning:**
 
-<img alt="Elixir" src="media/image/elixir.svg" height="30" /> &nbsp;&nbsp;
+#### Tech I mostly use
 
-<details>
-  <summary>My Projects</summary>
-  My Projects:
-
-</details>
-
-<details>
-  <summary>Social Media</summary>
-  Twitter: https://twitter.com/DieKatzeeee
-
-  Discord:https://discord.com/users/292588280304893952
-</details>
-
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
