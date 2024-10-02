@@ -1,4 +1,5 @@
 ### Hey there!
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/292588280304893952)](https://discord.com/users/292588280304893952)
 
 ### Get to know me
@@ -17,3 +18,8 @@ the University of Bonn and Backend developer.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
+#### I'm currently learning
+
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
