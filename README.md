@@ -1,6 +1,6 @@
 ### Hey there!
 
-[<img src="https://lanyard-profile-readme.vercel.app/api/292588280304893952" align="right">](https://discord.com/users/292588280304893952)
+[<img src="https://lanyard.cnrad.dev/api/292588280304893952" align="right">](https://discord.com/users/292588280304893952)
 
 ### Get to know me
 
