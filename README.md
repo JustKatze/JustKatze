@@ -4,8 +4,7 @@
 
 ### Get to know me
 
-I'm Connor a computer Science student at 
-the University of Bonn and Backend developer.
+I'm Connor.
 
 
 #### Tech I mostly use
